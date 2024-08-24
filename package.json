@@ -44,7 +44,7 @@
             "last 1 safari version"
         ]
     },
-    "homepage": "https://cadencjk.github.io/personal-website",
+    "homepage": "https://cadencjk.github.io/home",
     "devDependencies": {
         "gh-pages": "^6.1.1"
     }
