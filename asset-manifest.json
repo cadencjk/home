@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.ff052e69.css",
+    "main.js": "/home/static/js/main.1a72dff4.js",
+    "static/media/profileImage.jpg": "/home/static/media/profileImage.b50e6d6357a42ec8e333.jpg",
+    "static/media/incorp.png": "/home/static/media/incorp.dccd8506dfa985f2fa64.png",
+    "static/media/NUS.png": "/home/static/media/NUS.e28506167f243c51ec6d.png",
+    "static/media/keppel.png": "/home/static/media/keppel.e23ae537a2433c3a6631.png",
+    "static/media/shopee.png": "/home/static/media/shopee.431f5e3a776d23733b7a.png",
+    "static/media/ucd.svg": "/home/static/media/ucd.3aba25318ec41a29bdfb632413b60b23.svg",
+    "static/media/abb.png": "/home/static/media/abb.4ecb83457407f47681db.png",
+    "index.html": "/home/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.ff052e69.css",
+    "static/js/main.1a72dff4.js"
+  ]
+}
