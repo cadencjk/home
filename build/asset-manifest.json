@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.ff052e69.css",
+    "main.js": "/personal-website/static/js/main.19f6a69b.js",
+    "static/media/profileImage.jpg": "/personal-website/static/media/profileImage.b50e6d6357a42ec8e333.jpg",
+    "static/media/incorp.png": "/personal-website/static/media/incorp.dccd8506dfa985f2fa64.png",
+    "static/media/NUS.png": "/personal-website/static/media/NUS.e28506167f243c51ec6d.png",
+    "static/media/keppel.png": "/personal-website/static/media/keppel.e23ae537a2433c3a6631.png",
+    "static/media/shopee.png": "/personal-website/static/media/shopee.431f5e3a776d23733b7a.png",
+    "static/media/ucd.svg": "/personal-website/static/media/ucd.a87c26b9b43258ef6632974510a36522.svg",
+    "static/media/abb.png": "/personal-website/static/media/abb.4ecb83457407f47681db.png",
+    "index.html": "/personal-website/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.ff052e69.css",
+    "static/js/main.19f6a69b.js"
+  ]
+}
